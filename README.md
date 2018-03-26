@@ -2,6 +2,8 @@
 
 A very simple testing utility that takes API calls to any endpoint, printing and returning the headers and body (if any). Originally used to test the proxy function of an API Gateway under development.
 
+If you don't need a local service, you can use the following URI to access a hosted version of API Mirror: [https://api-mirror.herokuapp.com/](https://api-mirror.herokuapp.com/)
+
 ## Getting Started
 
 ### Prerequisites
